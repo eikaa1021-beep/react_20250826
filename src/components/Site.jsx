@@ -1,11 +1,11 @@
 import React from 'react'
 
 const Site = () => {
-    return (
+  return (
     <div>
-        Site
+      Site
     </div>
-    )
+  )
 }
 
 export default Site

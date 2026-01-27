@@ -3,13 +3,12 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 
 const Sub = () => {
-    return (
+  return (
     <>
-        <Header />
-        <Footer />
+      <Header />
+      <Footer />
     </>
-    )
+  )
 }
 
 export default Sub
-
